@@ -600,9 +600,15 @@ MonoBehaviour:
   TickTime: 0.25
   Damage: 10
   ChargeTime: 1
+  MaxCharge: 15
+  Manacost: 5
   StreamLightnings:
   - {fileID: 4587388565491682987}
   - {fileID: 1399606314376953942}
   - {fileID: 1895058121573652268}
-  StreamConvergenceSpeed: 0.5
+  StreamConvergenceSpeed: 0.13333334
   StreamDamage: 0
+  ExplosionGO: {fileID: 0}
+  spellActivationSound: {fileID: 0}
+  spellLoopSound: {fileID: 0}
+  explosionSound: {fileID: 0}

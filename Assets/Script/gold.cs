@@ -59,7 +59,7 @@ public class gold : MonoBehaviour
         Debug.Log("Onenter");
         if(other.tag == "Player")
         {
-
+            Pickup();
         }
     }
 }
